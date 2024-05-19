@@ -2,7 +2,7 @@
 *Undergrad Student at [Purdue University](https://www.purdue.edu/)*\
 Unity Programmer at the [Envision Center](https://www.ecshowcase.com/)
 
-🔭 I’m currently working on my portfolio website
+🔭 I’m currently working on my portfolio website\
 🌱 I’m currently learning the fundamental principals of Front-End development.
 <!--
 **ChristopherTrumpet/ChristopherTrumpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
