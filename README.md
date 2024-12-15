@@ -2,7 +2,7 @@
 *Undergrad Student at [Purdue University](https://www.purdue.edu/)*\
 Unity Programmer at the [Envision Center](https://www.ecshowcase.com/)
 
-🔭 I’m currently working on a friends portfolio website\
+🔭 I’m currently working on a friends portfolio website and learning Next.js with it :p
 🌱 I’m currently learning how to properly function as a cs student :(
 <!--
 **ChristopherTrumpet/ChristopherTrumpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
